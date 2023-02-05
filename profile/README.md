@@ -1,4 +1,4 @@
-## Hi there 👋
+[![cliff-discord-server](https://inv.wtf/widget/cliff)](https://inv.wtf/cliff)
 
 <!--
 
